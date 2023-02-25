@@ -80,7 +80,7 @@ const Home: NextPage = () => {
       <div className="fixed top-0 left-0 right-0 z-40 bg-[#0d0d0d]">
         <div className="flex flex-row max-w-[1280px] justify-between items-center mx-auto p-2">
           <div className="flex flex-row items-center">
-            <Image priority src="/png.png" width={40} height={40} alt="logo" />
+            <Image priority src="/logo.png" width={40} height={40} alt="logo" />
             <h1
               className="text-center uppercase mx-2 
               tracking-wider font-ProximaBold"
