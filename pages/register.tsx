@@ -64,7 +64,7 @@ const Register: NextPage = () => {
       } else {
         setFormData((prevData) => ({
           ...prevData,
-          usernameError: "Please enter valid username goofy",
+          usernameError: "Please enter valid username",
         }));
       }
       if (value.length == 0) {
